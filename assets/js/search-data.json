@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "Desarrollador, programador backend, me gusta Python, Django, VueJs y el software libre, aunque disfruto también de cosas privativas. .",
+          "content": "Desarrollador, programador backend, me gusta Python, Django, VueJs y el software libre, aunque disfruto también de cosas privativas. . Este blog es además una especie de wiki personal y un cuaderno de notas. .",
           "url": "https://izurietajr.github.io/blog/about/",
           "relUrl": "/about/",
           "date": ""
