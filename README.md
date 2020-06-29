@@ -6,7 +6,7 @@
 
 https://izurietajr.github.io/blog/
 
-* My Blog
+# izurietajr blog
 
 My personal blog, if you find something cool, feel free to share!
 
