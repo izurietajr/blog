@@ -443,7 +443,7 @@ table td { text-overflow: ellipsis; overflow: hidden; max-width: 15em; }
 
 .post-title { font-family: 'Libre Baskerville', serif !important; font-weight: 700; font-size: 40px; }
 
-.post-content p, .post-content li { font-size: 17px !important; line-height: 35px !important; color: #333 !important; }
+.post-content p, .post-content li { font-size: 17px !important; line-height: 30px !important; color: #333 !important; }
 
 pre { font-size: 13px !important; }
 
