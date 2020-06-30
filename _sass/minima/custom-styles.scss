@@ -14,13 +14,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 // @import url('https://fonts.googleapis.com/css2?family=Adamina&display=swap');
 // @import url('https://fonts.googleapis.com/css2?family=Adamina&family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 .page-content {
     font-family: 'Merriweather', serif !important;
 }
 
+.post-title {
+    font-family: 'Libre Baskerville', serif !important;
+}
+
 .post-content p, .post-content li {
    font-size: 17px !important;
+   line-height: 35px !important;
    color: #333 !important;
 }
 
