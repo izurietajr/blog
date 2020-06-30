@@ -437,7 +437,7 @@ table td { text-overflow: ellipsis; overflow: hidden; max-width: 15em; }
 
 .home { font-family: "Segoe UI", SegoeUI, Roboto, "Segoe WP", "Helvetica Neue", "Helvetica", "Tahoma", "Arial", sans-serif !important; }
 
-.post-link { font-weight: bold !important; }
+.post-link { font-weight: bold !important; font-family: 'Libre Baskerville' !important; }
 
 .post-content h2 { font-size: 1.65rem !important; font-family: 'Libre Baskerville' !important; }
 
@@ -448,5 +448,9 @@ table td { text-overflow: ellipsis; overflow: hidden; max-width: 15em; }
 pre { font-size: 13px !important; }
 
 pre, code { background-color: #eaf6fc !important; }
+
+a { color: #2b5687 !important; }
+
+a:visited { color: #2b5687 !important; }
 
 /*# sourceMappingURL=style.css.map */
