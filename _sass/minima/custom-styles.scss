@@ -11,7 +11,7 @@
 // @import "minima/fastpages-dracula-highlight";
 //
 
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 // @import url('https://fonts.googleapis.com/css2?family=Adamina&display=swap');
 // @import url('https://fonts.googleapis.com/css2?family=Adamina&family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
@@ -20,8 +20,23 @@
     font-family: 'Merriweather', serif !important;
 }
 
+.home {
+    font-family: "Segoe UI", SegoeUI, Roboto, "Segoe WP", "Helvetica Neue", "Helvetica", "Tahoma", "Arial", sans-serif !important;
+}
+
+.post-link {
+    font-weight: bold !important;
+}
+
+.post-content h2 {
+    font-size: 1.65rem !important;
+    font-family: 'Libre Baskerville' !important;
+}
+
 .post-title {
     font-family: 'Libre Baskerville', serif !important;
+    font-weight: 700;
+    font-size: 40px;
 }
 
 .post-content p, .post-content li {
