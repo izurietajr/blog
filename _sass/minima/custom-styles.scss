@@ -26,6 +26,7 @@
 
 .post-link {
     font-weight: bold !important;
+    font-family: 'Libre Baskerville' !important;
 }
 
 .post-content h2 {
@@ -51,4 +52,12 @@ pre {
 
 pre, code {
     background-color: #eaf6fc !important;
+}
+
+a {
+    color: #2b5687 !important;
+}
+
+a:visited {
+    color: #2b5687 !important;
 }
