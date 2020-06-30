@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Adamina&family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 .highlight .c { color: #998; font-style: italic; }
 
 .highlight .err { color: #a61717; background-color: #e3d2d2; }
@@ -433,6 +433,12 @@ table td { text-overflow: ellipsis; overflow: hidden; max-width: 15em; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
-.page-content { font-family: 'Merriweather', serif; }
+.page-content { font-family: 'Adamina', 'Merriweather', serif !important; }
+
+.post-content p, .post-content li { font-size: 17px !important; color: #aaa !important; }
+
+pre { font-size: 13px !important; }
+
+pre, code { background-color: #eaf6fc !important; }
 
 /*# sourceMappingURL=style.css.map */
